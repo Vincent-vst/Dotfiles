@@ -15,4 +15,14 @@ curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
 
 # Now you should be able to :PlugInstall in neovim
 
+# installing zsh and adding it as default shell  
+sudo pacman -S zsh -y  
+chsh -s /usr/bin/zsh  
+
+# install zsh plugins 
+
+# creating zsh config file and sourcing it  
+cp ./.zshrc ~/  
+source ~/.zshrc  
+
 
