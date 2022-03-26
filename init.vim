@@ -39,6 +39,6 @@ set scrolloff=10
 set termguicolors 
 " colorscheme nightfly
 hi Comment cterm=italic
-" set background=dark
+set background=dark
 
 

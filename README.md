@@ -1,17 +1,34 @@
 # Dotfiles
 
-r/UnixP*rn dotfiles 
+Config file for my setup 
 
-## Installation   
+## 🔧 Tools   
+
+- Terminal : [Kitty](https://github.com/kovidgoyal/kitty)   
+- Shell : [zsh](https://github.com/ohmyzsh/ohmyzsh)   
+- Code editor : [neovim](https://github.com/neovim/neovim)  
+- Window manager : [krohnkite](https://store.kde.org/p/1281790/)  
 
 
+## 🐙 Installation   
 
+###  You can  :  
 ```
 git clone ....  
 cd Dotfiles  
-bash ./main.sh
+bash ./install.sh
 ``` 
+*but it might not work on some system*
 
-Then, you can `PlugInstall` in neovim 
+### Or preferably   
+
+- git clone ...   
+- and then read and follow the install.sh  
+
+## ❤️  Wallpapers and more  
+
+- [KDE audio visualizer](https://github.com/rbn42/panon)  
+- [Wallpaper](#)  
+
 
 
