@@ -24,16 +24,9 @@ curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
 # Now you should be able to :PlugInstall in neovim
 # TODO : install Coc-plugins 
 
-# installing zsh and adding it as default shell  
-sudo pacman -S zsh -y  
-chsh -s /usr/bin/zsh  
+# installing fish and adding it as default shell  
+sudo pacman -S fish 
+chsh -s /usr/bin/fish  
 
-# install zsh plugins 
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-# creating zsh config file and sourcing it  
-# oh-my-zsh has already made a ~/.zshrc but i'm gonna modify it a bit with : 
-cat ./.zshrc >> ~/.zshrc
-source ~/.zshrc  
 
 
