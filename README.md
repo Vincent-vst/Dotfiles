@@ -5,7 +5,7 @@ Config file for my setup
 ## 🔧 Tools   
 
 - Terminal : [Kitty](https://github.com/kovidgoyal/kitty)   
-- Shell : [zsh](https://github.com/ohmyzsh/ohmyzsh)   
+- Shell : [fish](https://fishshell.com/)
 - Code editor : [neovim](https://github.com/neovim/neovim)  
 - Window manager : [krohnkite](https://store.kde.org/p/1281790/)  
 
