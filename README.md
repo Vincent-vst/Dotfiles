@@ -7,7 +7,8 @@ Config file for my setup
 - Terminal : [Kitty](https://github.com/kovidgoyal/kitty)   
 - Shell : [fish](https://fishshell.com/)
 - Code editor : [neovim](https://github.com/neovim/neovim)  
-- Window manager : [krohnkite](https://store.kde.org/p/1281790/)  
+- Window manager : [i3](https://i3wm.org)   
+- Status bar : [polybar](https://github.com/polybar/polybar)
 
 
 ## 🐙 Installation   
@@ -24,6 +25,7 @@ bash ./install.sh
 
 - git clone ...   
 - and then read and follow the install.sh  
+
 
 ## ❤️  Wallpapers and more  
 
