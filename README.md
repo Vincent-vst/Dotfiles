@@ -13,18 +13,8 @@ Config file for my setup
 
 ## 🐙 Installation   
 
-###  You can  :  
-```
-git clone ....  
-cd Dotfiles  
-bash ./install.sh
-``` 
-*but it might not work on some system*
-
-### Or preferably   
-
-- git clone ...   
-- and then read and follow the install.sh  
+The `install.sh` file is outdated.   
+Please refere to the official documentation in order to config those tools.   
 
 
 ## ❤️  Wallpapers and more  
