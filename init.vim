@@ -112,3 +112,4 @@ db.custom_center = {
     }
 EOF
 colorscheme catppuccin
+
